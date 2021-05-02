@@ -1,0 +1,12 @@
+.style{
+    transition: .4s;
+}
+
+.style:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px black;
+}
+.ancor{
+    text-decoration: none;
+    margin-left: 10px;
+}

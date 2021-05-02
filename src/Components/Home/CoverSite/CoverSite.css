@@ -1,0 +1,46 @@
+.mainDiv{
+position: relative;
+top:100px;
+}
+.secondDiv{
+    position: absolute;
+    /* top:250px; */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 70px;
+    background-position: center;
+}
+
+.heading{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.margin{
+    padding-left: 50px;
+}
+
+.social{
+    margin-top: 20px;
+    margin-left: 130px;
+
+}
+
+.icon{
+    padding-left: 10px;
+}
+
+.buttons{
+    margin-top: 30px;
+    margin-left: 60px;
+   
+}
+.btnicon{
+    margin-left: 20px;
+   
+}
+.btnicons{
+    margin-right: 20px;
+    background-color: transparent ;
+}

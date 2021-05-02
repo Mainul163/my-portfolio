@@ -1,0 +1,11 @@
+.sa{
+   transition: .4s;
+}
+.sa:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px black;
+}
+.procss{
+    margin-top: 130px;
+    margin-bottom: 100px;
+}

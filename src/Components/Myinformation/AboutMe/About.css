@@ -1,0 +1,19 @@
+.aboutcss{
+    margin-top: 130px;
+}
+.text{
+    text-align: justify;
+}
+.img{
+   
+  width: 250px;
+    
+}
+.edit{
+   font-weight: bold;
+   font-size: 20px;
+}
+.icons{
+padding-left: 18px;
+}
+
